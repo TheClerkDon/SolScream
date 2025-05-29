@@ -1,0 +1,24 @@
+{
+  "name": "SolScream",
+  "symbol": "SSCM",
+  "description": "I scream, you scream, we all scream for SolScream.",
+  "external_url": "https://x.com/SolScream_",
+  "seller_fee_basis_points": 500,
+  "image": "https://github.com/TheClerkDon/SolScream/blob/main/SolScream.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/TheClerkDon/SolScream/blob/main/SolScream.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "JT4Cqay5YB915RiwYBh8atqRSnmCDzWmJtH9HuJS7yU",
+        "share": 100
+      }
+    ]
+  }
+}
